@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 estamos revisando como funciona esta cosa y me parece interesante
 
 estamos bien con este programa
 lalalala
+=======
+estoy medio se esta aclarando2968
+sigo medio confundido
+no se que pasa
+kgdjfkg
+>>>>>>> parent of c594839... sigue confundido
